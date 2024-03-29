@@ -4,7 +4,7 @@ import os
 #get file from last commit
 Files = os.popen("git diff --name-only HEAD HEAD^").read().split("\n")
 #get time as MONTH-DAY
-time = datetime.datetime.now().strftime("%m%d")
+time = datetime.datetime.now().strftime("%m%d%h")
 for file in Files:
     if(os.path.exists(file) and file.startswith("listening/test")):
         filename = os.path.basename(file)
