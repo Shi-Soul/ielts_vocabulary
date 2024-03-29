@@ -1,0 +1,786 @@
+正在比较文件 LISTENING\REF\ch3-pretest.md 和 LISTENING\TEST\CH3-PRETEST.MD
+***** LISTENING\REF\ch3-pretest.md
+    1:  1. bananas
+    2:  2. insurance
+    3:  3. town
+    4:  4. hostel
+    5:  5. qualifications
+    6:  6. accommodation
+    7:  7. photography
+***** LISTENING\TEST\CH3-PRETEST.MD
+    1:  1. bananas
+    2:  2. ensurance
+    3:  3. town
+    4:  4. hostal
+    5:  5. qualifications
+    6:  6. accomendations
+    7:  7. photography
+*****
+
+***** LISTENING\REF\ch3-pretest.md
+   12:  12. statistics
+   13:  13. metallurgy
+   14:  14. citizens
+   15:  15. rubbish
+***** LISTENING\TEST\CH3-PRETEST.MD
+   12:  12. statistics
+   13:  13. metolage
+   14:  14. citicen
+   15:  15. rubbish
+*****
+
+***** LISTENING\REF\ch3-pretest.md
+   16:  16. drawbacks
+   17:  17. stress
+   18:  18. diving
+   19:  19. organization
+   20:  20. proposal
+***** LISTENING\TEST\CH3-PRETEST.MD
+   16:  16. drawbacks
+   17:  17. strength
+   18:  18. dialog
+   19:  19. organizations
+   20:  20. proposal
+*****
+
+***** LISTENING\REF\ch3-pretest.md
+   21:  21. performance
+   22:  22. fair
+   23:  23. diploma
+***** LISTENING\TEST\CH3-PRETEST.MD
+   21:  21. performance
+   22:  22. fear
+   23:  23. diploma
+*****
+
+***** LISTENING\REF\ch3-pretest.md
+   30:  30. gear
+   31:  31. license
+   32:  32. pasture
+   33:  33. woodland
+   34:  34. comparison
+***** LISTENING\TEST\CH3-PRETEST.MD
+   30:  30. gear
+   31:  31. whitens
+   32:  32. pasture
+   33:  33. wooden
+   34:  34. comparison
+*****
+
+***** LISTENING\REF\ch3-pretest.md
+   35:  35. software
+   36:  36. microscope
+   37:  37. butterfly
+   38:  38. species
+   39:  39. contract
+***** LISTENING\TEST\CH3-PRETEST.MD
+   35:  35. software
+   36:  36. macroscope
+   37:  37. butterfly
+   38:  38. sbishis
+   39:  39. contract
+*****
+
+***** LISTENING\REF\ch3-pretest.md
+   41:  41. definition
+   42:  42. peers
+   43:  43. professionals
+   44:  44. vision
+***** LISTENING\TEST\CH3-PRETEST.MD
+   41:  41. definition
+   42:  42. pairs
+   43:  43. professional
+   44:  44. vision
+*****
+
+***** LISTENING\REF\ch3-pretest.md
+   51:  51. consequence
+   52:  52. cellulose
+   53:  53. fabric
+   54:  54. inventor
+   55:  55. chandelier
+   56:  56. technician
+   57:  57. initials
+***** LISTENING\TEST\CH3-PRETEST.MD
+   51:  51. consequence
+   52:  52. seluelos
+   53:  53. fabrac
+   54:  54. inventor
+   55:  55. ?
+   56:  56. technition
+   57:  57. initials
+*****
+
+***** LISTENING\REF\ch3-pretest.md
+   58:  58. administration
+   59:  59. tent
+   60:  60. waterfall
+   61:  61. bladders
+   62:  62. surface
+   63:  63. antenna
+   64:  64. layout
+   65:  65. request
+   66:  66. refreshments
+***** LISTENING\TEST\CH3-PRETEST.MD
+   58:  58. administration
+   59:  59. tend
+   60:  60. waterfall
+   61:  61. bladers
+   62:  62. serface
+   63:  63. untenner
+   64:  64. layout
+   65:  65. requerst
+   66:  66. refreshments
+*****
+
+***** LISTENING\REF\ch3-pretest.md
+   68:  68. term
+   69:  69. toads
+   70:  70. womb
+   71:  71. flesh
+   72:  72. pond
+   73:  73. habitat
+   74:  74. dweller
+   75:  75. farmland
+***** LISTENING\TEST\CH3-PRETEST.MD
+   68:  68. term
+   69:  69. toters
+   70:  70. wood
+   71:  71. flash
+   72:  72. ?
+   73:  73. habitat
+   74:  74. dualer
+   75:  75. farmland
+*****
+
+***** LISTENING\REF\ch3-pretest.md
+   76:  76. leaflet
+   77:  77. fuel
+   78:  78. predator
+   79:  79. maximum
+***** LISTENING\TEST\CH3-PRETEST.MD
+   76:  76. leaflet
+   77:  77. few
+   78:  78. prediter
+   79:  79. maximum
+*****
+
+***** LISTENING\REF\ch3-pretest.md
+   81:  81. indication
+   82:  82. sperm
+   83:  83. variables
+***** LISTENING\TEST\CH3-PRETEST.MD
+   81:  81. indication
+   82:  82. sberm
+   83:  83. variables
+*****
+
+***** LISTENING\REF\ch3-pretest.md
+   91:  91. interruption
+   92:  92. poverty
+   93:  93. realism
+   94:  94. frustration
+   95:  95. friendship
+***** LISTENING\TEST\CH3-PRETEST.MD
+   91:  91. interruption
+   92:  92. property
+   93:  93. realism
+   94:  94. frashtration
+   95:  95. friendship
+*****
+
+***** LISTENING\REF\ch3-pretest.md
+   96:  96. concentration
+   97:  97. textile
+   98:  98. joke
+***** LISTENING\TEST\CH3-PRETEST.MD
+   96:  96. concentration
+   97:  97. tech-style
+   98:  98. joke
+*****
+
+***** LISTENING\REF\ch3-pretest.md
+   99:  99. orientation
+  100:  100. umbrella
+  101:  101. landscape
+***** LISTENING\TEST\CH3-PRETEST.MD
+   99:  99. orientation
+  100:  100. umbralla
+  101:  101. landscape
+*****
+
+***** LISTENING\REF\ch3-pretest.md
+  103:  103. concrete
+  104:  104. exterior
+  105:  105. fountain
+  106:  106. engineering
+***** LISTENING\TEST\CH3-PRETEST.MD
+  103:  103. concrete
+  104:  104. eads
+  105:  105. funding
+  106:  106. engineering
+*****
+
+***** LISTENING\REF\ch3-pretest.md
+  108:  108. tutorial
+  109:  109. journalism
+  110:  110. theme
+  111:  111. juniors
+***** LISTENING\TEST\CH3-PRETEST.MD
+  108:  108. tutorial
+  109:  109. gealnalism
+  110:  110. seem
+  111:  111. juniors
+*****
+
+***** LISTENING\REF\ch3-pretest.md
+  113:  113. spa
+  114:  114. hairdresser
+  115:  115. ingredients
+  116:  116. core
+  117:  117. digestive
+  118:  118. massage
+  119:  119. ancestor
+  120:  120. ratio
+  121:  121. cord
+  122:  122. bark
+  123:  123. temperature
+***** LISTENING\TEST\CH3-PRETEST.MD
+  113:  113. spa
+  114:  114. hiertrasen
+  115:  115. ingredients
+  116:  116. call
+  117:  117. digestive
+  118:  118. asash
+  119:  119. unsaster
+  120:  120. ratio
+  121:  121. caller
+  122:  122. bug
+  123:  123. temperature
+*****
+
+***** LISTENING\REF\ch3-pretest.md
+  125:  125. entertainment
+  126:  126. passion
+  127:  127. geographers
+  128:  128. parachute
+  129:  129. valve
+  130:  130. oxygen
+  131:  131. discussion
+  132:  132. meetings
+***** LISTENING\TEST\CH3-PRETEST.MD
+  125:  125. entertainment
+  126:  126. pasher
+  127:  127. geographis
+  128:  128. parashiter
+  129:  129. loud
+  130:  130. o
+  131:  131. discusstion
+  132:  132. meetings
+*****
+
+***** LISTENING\REF\ch3-pretest.md
+  133:  133. admission
+  134:  134. bookshop
+  135:  135. chimpanzees
+  136:  136. behavior
+***** LISTENING\TEST\CH3-PRETEST.MD
+  133:  133. admission
+  134:  134. workshop
+  135:  135. ?
+  136:  136. behavior
+*****
+
+***** LISTENING\REF\ch3-pretest.md
+  138:  138. nutshell
+  139:  139. binoculars
+  140:  140. Eskimo
+  141:  141. steel
+  142:  142. athlete
+  143:  143. vibration
+  144:  144. bulb
+  145:  145. mud
+  146:  146. waitress
+  147:  147. proof
+  148:  148. reservoir
+  149:  149. participation
+***** LISTENING\TEST\CH3-PRETEST.MD
+  138:  138. nutshell
+  139:  139. benauculas
+  140:  140. escumal
+  141:  141. still
+  142:  142. afllict
+  143:  143. 1
+  144:  144. boob
+  145:  145. mood
+  146:  146. ?
+  147:  147. proof
+  148:  148. reserver
+  149:  149. participation
+*****
+
+***** LISTENING\REF\ch3-pretest.md
+  152:  152. librarian
+  153:  153. ditch
+  154:  154. protection
+  155:  155. peas
+  156:  156. fertilizer
+  157:  157. porcelain
+  158:  158. cattle
+  159:  159. crops
+  160:  160. production
+  161:  161. plough
+  162:  162. function
+  163:  163. windmills
+  164:  164. labour
+  165:  165. duration
+  166:  166. gym
+  167:  167. restroom
+  168:  168. judo
+  169:  169. contribution
+  170:  170. fiancee
+  171:  171. acknowlegement
+  172:  172. discussion
+  173:  173. representative
+  174:  174. piano
+  175:  175. bookshelf
+  176:  176. reconstruction
+***** LISTENING\TEST\CH3-PRETEST.MD
+  152:  152. librarian
+  153:  153. dech
+  154:  154. protection
+  155:  155. peace
+  156:  156. fertelizer
+  157:  157. passerlen
+  158:  158. caltor
+  159:  159. crops
+  160:  160. perdoction
+  161:  161. ?
+  162:  162. function
+  163:  163. windmeals
+  164:  164. label
+  165:  165. geration
+  166:  166. germ
+  167:  167. restroom
+  168:  168. judor
+  169:  169. contribution
+  170:  170. feansi
+  171:  171. acknowledgement
+  172:  172. discussion
+  173:  173. representive
+  174:  174. peano
+  175:  175. bookshelves
+  176:  176. reconstruction
+*****
+
+***** LISTENING\REF\ch3-pretest.md
+  180:  180. voicemail
+  181:  181. stripe
+  182:  182. warning
+  183:  183. Mars
+  184:  184. chess
+  185:  185. balcony
+  186:  186. squirrel
+  187:  187. invasion
+  188:  188. restriction
+  189:  189. competition
+  190:  190. toleration
+  191:  191. polytechnic
+  192:  192. hectares
+  193:  193. community
+  194:  194. kangaroo
+  195:  195. laundry
+  196:  196. rubber
+  197:  197. champion
+***** LISTENING\TEST\CH3-PRETEST.MD
+  180:  180. voicemail
+  181:  181. straight
+  182:  182. warnings
+  183:  183. mask
+  184:  184. cheers
+  185:  185. barkening
+  186:  186. square
+  187:  187. invation
+  188:  188. restriction
+  189:  189. computation
+  190:  190. toleration
+  191:  191. politactinc
+  192:  192. hactors
+  193:  193. community
+  194:  194. cangaroot
+  195:  195. laundry
+  196:  196. robot
+  197:  197. champion
+*****
+
+***** LISTENING\REF\ch3-pretest.md
+  198:  198. battle
+  199:  199. textbook
+  200:  200. grams
+***** LISTENING\TEST\CH3-PRETEST.MD
+  198:  198. battle
+  199:  199. techsbook
+  200:  200. grams
+*****
+
+***** LISTENING\REF\ch3-pretest.md
+  201:  201. preservation
+  202:  202. disorders
+  203:  203. cosmetics
+  204:  204. message
+  205:  205. refrigerator
+  206:  206. demonstration
+  207:  207. hallway
+  208:  208. mite
+  209:  209. hive
+  210:  210. virus
+  211:  211. fund
+  212:  212. personnel
+  213:  213. reputation
+***** LISTENING\TEST\CH3-PRETEST.MD
+  201:  201. preservation
+  202:  202. disorters
+  203:  203. cosmotics
+  204:  204. message
+  205:  205. refisherater
+  206:  206. demostration
+  207:  207. hoolee
+  208:  208. mites
+  209:  209. hive
+  210:  210. virious
+  211:  211. found
+  212:  212. personal
+  213:  213. reputation
+*****
+
+***** LISTENING\REF\ch3-pretest.md
+  215:  215. studio
+  216:  216. deposit
+  217:  217. motivation
+  218:  218. pot
+  219:  219. jewelry
+  220:  220. teenagers
+  221:  221. diet
+  222:  222. limitation
+  223:  223. minority
+  224:  224. relationship
+  225:  225. sightseeing
+  226:  226. composers
+  227:  227. cabin
+  228:  228. calendar
+  229:  229. teapot
+  230:  230. gardening
+  231:  231. gloves
+  232:  232. necklace
+  233:  233. niece
+  234:  234. footwear
+  235:  235. campaign
+  236:  236. fault
+  237:  237. centralization
+  238:  238. slug
+  239:  239. worms
+  240:  240. snails
+  241:  241. habitat
+  242:  242. indicator
+  243:  243. speech
+  244:  244. fishery
+  245:  245. grape
+  246:  246. density
+  247:  247. exposure
+  248:  248. insulation
+  249:  249. trays
+  250:  250. friction
+  251:  251. stuff
+  252:  252. apron
+  253:  253. sunglasses
+  254:  254. suncream
+  255:  255. celebration
+  256:  256. pyramid
+  257:  257. dolphin
+  258:  258. payment
+  259:  259. soldiers
+  260:  260. shipping
+***** LISTENING\TEST\CH3-PRETEST.MD
+  215:  215. studio
+  216:  216. diposite
+  217:  217. motivation
+  218:  218. hot
+  219:  219. juwlery
+  220:  220. teenagers
+  221:  221. diate
+  222:  222. limitation
+  223:  223. minolity
+  224:  224. relationship
+  225:  225. stiteseen
+  226:  226. composers
+  227:  227. captin
+  228:  228. celinder
+  229:  229. teepote
+  230:  230. gardening
+  231:  231. glos
+  232:  232. necoles
+  233:  233. neets
+  234:  234. fortweer
+  235:  235. campin
+  236:  236. fort
+  237:  237. centralization
+  238:  238. slog
+  239:  239. worms
+  240:  240. snears
+  241:  241. habitat
+  242:  242. indicater
+  243:  243. speech
+  244:  244. fisher
+  245:  245. gram
+  246:  246. density
+  247:  247. exposher
+  248:  248. insulation
+  249:  249. trace
+  250:  250. fraction
+  251:  251. stopf
+  252:  252. aproan
+  253:  253. sunglasses
+  254:  254. sunceans
+  255:  255. celebrations
+  256:  256. parameter
+  257:  257. dophin
+  258:  258. payment
+  259:  259. sogers
+  260:  260. shipping
+*****
+
+***** LISTENING\REF\ch3-pretest.md
+  261:  261. commodity
+  262:  262. basin
+  263:  263. whales
+  264:  264. nationality
+  265:  265. absence
+  266:  266. factors
+***** LISTENING\TEST\CH3-PRETEST.MD
+  261:  261. commodity
+  262:  262. facing
+  263:  263. wears
+  264:  264. nashnolity
+  265:  265. absent
+  266:  266. factors
+*****
+
+***** LISTENING\REF\ch3-pretest.md
+  268:  268. outcomes
+  269:  269. workforce
+  270:  270. cupboard
+  271:  271. generalisation
+  272:  272. documents
+  273:  273. vegetation
+  274:  274. exhibition
+  275:  275. voting
+  276:  276. dialogue
+  277:  277. regulator
+  278:  278. hammer
+  279:  279. incubator
+  280:  280. quantity
+  281:  281. manpower
+  282:  282. rivals
+  283:  283. extinction
+  284:  284. ecosystem
+***** LISTENING\TEST\CH3-PRETEST.MD
+  268:  268. outcomes
+  269:  269. workfast
+  270:  270. copied
+  271:  271. generalizations
+  272:  272. documents
+  273:  273. vegetations
+  274:  274. exerbitions
+  275:  275. forting
+  276:  276. dialogue
+  277:  277. regulater
+  278:  278. hammer
+  279:  279. incupater
+  280:  280. quantiting
+  281:  281. manpower
+  282:  282. rivorse
+  283:  283. extingction
+  284:  284. ecosystem
+*****
+
+***** LISTENING\REF\ch3-pretest.md
+  285:  285. radio
+  286:  286. jam
+  287:  287. candle
+  288:  288. shampoo
+  289:  289. obesity
+  290:  290. congestion
+  291:  291. categories
+  292:  292. twilight
+  293:  293. farmhouse
+  294:  294. passport
+  295:  295. windsurfing
+  296:  296. qualification
+***** LISTENING\TEST\CH3-PRETEST.MD
+  285:  285. radio
+  286:  286. garm
+  287:  287. candor
+  288:  288. shampor
+  289:  289. obesity
+  290:  290. conjustion
+  291:  291. categories
+  292:  292. trylater
+  293:  293. farmhouse
+  294:  294. passports
+  295:  295. windserving
+  296:  296. qualification
+*****
+
+***** LISTENING\REF\ch3-pretest.md
+  298:  298. responsibility
+  299:  299. authority
+  300:  300. competitors
+  301:  301. determination
+***** LISTENING\TEST\CH3-PRETEST.MD
+  298:  298. responsibility
+  299:  299. orsolity
+  300:  300. competiters
+  301:  301. determination
+*****
+
+***** LISTENING\REF\ch3-pretest.md
+  302:  302. labour
+  303:  303. camel
+  304:  304. label
+  305:  305. sprain
+  306:  306. aspirin
+  307:  307. critic
+***** LISTENING\TEST\CH3-PRETEST.MD
+  302:  302. labour
+  303:  303. camor
+  304:  304. label
+  305:  305. spring
+  306:  306. expert
+  307:  307. critic
+*****
+
+***** LISTENING\REF\ch3-pretest.md
+  309:  309. lighting
+  310:  310. stage-set
+  311:  311. storage
+***** LISTENING\TEST\CH3-PRETEST.MD
+  309:  309. lighting
+  310:  310. stageset
+  311:  311. storage
+*****
+
+***** LISTENING\REF\ch3-pretest.md
+  312:  312. regulation
+  313:  313. graffiti
+  314:  314. sticks
+  315:  315. bins
+  316:  316. wedding
+  317:  317. sauna
+  318:  318. documentary
+***** LISTENING\TEST\CH3-PRETEST.MD
+  312:  312. regulation
+  313:  313. refitting
+  314:  314. stycs
+  315:  315. bins
+  316:  316. wading
+  317:  317. soner
+  318:  318. documentary
+*****
+
+***** LISTENING\REF\ch3-pretest.md
+  319:  319. landscape
+  320:  320. helmet
+  321:  321. bronze
+  322:  322. facilities
+  323:  323. calorie
+  324:  324. wallet
+  325:  325. dinosaur
+  326:  326. extinct
+  327:  327. fossils
+  328:  328. moa
+  329:  329. attitude
+  330:  330. wreckage
+  331:  331. investment
+  332:  332. roof
+  333:  333. tortoise
+  334:  334. certificate
+  335:  335. Cantonese
+***** LISTENING\TEST\CH3-PRETEST.MD
+  319:  319. landscape
+  320:  320. palmate
+  321:  321. brooms
+  322:  322. facilities
+  323:  323. coloring
+  324:  324. walite
+  325:  325. dinasour
+  326:  326. extinct
+  327:  327. falsource
+  328:  328. mola
+  329:  329. attitute
+  330:  330. regragh
+  331:  331. investinate
+  332:  332. roof
+  333:  333. tertores
+  334:  334. certificant
+  335:  335. cantonese
+*****
+
+***** LISTENING\REF\ch3-pretest.md
+  336:  336. interpreter
+  337:  337. purchase
+  338:  338. forestry
+  339:  339. literature
+  340:  340. irrigation
+***** LISTENING\TEST\CH3-PRETEST.MD
+  336:  336. interpreter
+  337:  337. parchers
+  338:  338. falerstra
+  339:  339. ?
+  340:  340. irrigation
+*****
+
+***** LISTENING\REF\ch3-pretest.md
+  341:  341. degradation
+  342:  342. nutrient
+  343:  343. erosion
+  344:  344. humidity
+***** LISTENING\TEST\CH3-PRETEST.MD
+  341:  341. degradation
+  342:  342. newt
+  343:  343. evoltion
+  344:  344. humidity
+*****
+
+***** LISTENING\REF\ch3-pretest.md
+  345:  345. fishery
+  346:  346. contaminants
+  347:  347. innocence
+  348:  348. freedom
+***** LISTENING\TEST\CH3-PRETEST.MD
+  345:  345. fishery
+  346:  346. contaminant
+  347:  347. innersents
+  348:  348. freedom
+*****
+
+***** LISTENING\REF\ch3-pretest.md
+  354:  354. amber
+  355:  355. resin
+  356:  356. fungi
+  357:  357. sunlight
+  358:  358. bridge
+  359:  359. concrete
+***** LISTENING\TEST\CH3-PRETEST.MD
+  354:  354. amber
+  355:  355. rasing
+  356:  356. formguy
+  357:  357. sunlight
+  358:  358. rich
+  359:  359. concrete
+*****
+
+***** LISTENING\REF\ch3-pretest.md
+***** LISTENING\TEST\CH3-PRETEST.MD
+  360:  360. 
+*****
+
