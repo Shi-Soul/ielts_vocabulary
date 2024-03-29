@@ -2,7 +2,10 @@ import datetime
 import os
 
 #get file from last commit
+# Files = os.("git diff --name-only HEAD HEAD^").read().split("\n")
 Files = os.popen("git diff --name-only HEAD HEAD^").read().split("\n")
+print("PWD: ",os.getcwd())
+print("Files: ", Files,os.popen("git diff --name-only HEAD HEAD^").read())
 #get time as MONTH-DAY
 time = datetime.datetime.now().strftime("%m%d%h")
 for file in Files:
