@@ -168,7 +168,7 @@
 168. judo
 169. contribution
 170. fiancee
-171. acknowlegement
+171. acknowledgement
 172. discussion
 173. representative
 174. piano

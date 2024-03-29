@@ -4,7 +4,7 @@ from pprint import pprint
 
 #get file from last commit
 # Files = os.("git diff --name-only HEAD HEAD^").read().split("\n")
-Files = os.popen("git diff --name-only HEAD HEAD^^^^^^").read().split("\n")
+Files = os.popen("git diff --name-only HEAD HEAD^^").read().split("\n")
     # 在windows中, ^是转义符, 要想敲一个^, 需要敲^^
 # pprint(Files)
 #get time as MONTH-DAY
@@ -19,7 +19,9 @@ def file_cmp(file1, file2, save):
         # write head
         f3.write(f"{'Ref':<40}|Test\n")
         for i in range(len(lines1)):
-            if lines1[i] != lines2[i]:
+            # ignore space and '\n'
+            if lines1[i].strip() != lines2[i].strip():
+            # if lines1[i] != lines2[i]:
                 # delete the last '\n' in lines1[i]
                 if lines1[i][-1] == '\n':
                     lines1[i] = lines1[i][:-1]

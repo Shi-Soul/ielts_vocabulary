@@ -10,6 +10,8 @@
 ### USAGE:
 Wirte down what you listen to in the `test` folder, and then use `diff` or any other diff-tools(like `git diff`/`diff` in vscode).
 
+> The original code is written for Linux. Here I write a Windows version.
+
 ### Oracle:
 `https://space.bilibili.com/245086940` Most bilibili videos are copies of this uploader's work. But lacks for chapter 8(chapter about "number", like phone numbers).
 
